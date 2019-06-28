@@ -3,6 +3,6 @@ layout: post
 title: Short History
 ---
 
-# Before Qin Dynasty
+## Before Qin Dynasty
 
-# From 1912
+## From 1912
