@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Traditional Chinese Music
 tagline:          'A Short Intro and Useful Map'
 description:      'Resource map for global Traditaional Chinese Music Fans'
-url:              http://hyde.getpoole.com
+url:              https://see2.github.io
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/see2/seet.github.io
+  repo:           https://github.com/see2/see2.github.io
